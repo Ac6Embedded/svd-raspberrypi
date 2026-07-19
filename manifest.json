@@ -1,0 +1,37 @@
+{
+  "vendor": "Raspberry Pi",
+  "generated": "2026-07-19",
+  "sources": [
+    {
+      "name": "pico-sdk",
+      "url": "https://github.com/raspberrypi/pico-sdk",
+      "version": "98a542c1a62fb549ffb5d66a3e5892b06276b670",
+      "license": "BSD-3-Clause",
+      "files": [
+        "src/rp2040/hardware_regs/RP2040.svd",
+        "src/rp2350/hardware_regs/RP2350.svd",
+        "LICENSE.TXT"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "RP2040/RP2040.svd",
+      "device": "RP2040",
+      "family": "RP2040",
+      "source": "pico-sdk",
+      "provenance": "pristine"
+    },
+    {
+      "path": "RP2350/RP2350.svd",
+      "device": "RP2350",
+      "family": "RP2350",
+      "source": "pico-sdk",
+      "provenance": "pristine"
+    }
+  ],
+  "stats": {
+    "total_files": 2,
+    "total_bytes": 8108087
+  }
+}
