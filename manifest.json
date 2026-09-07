@@ -1,11 +1,11 @@
 {
   "vendor": "Raspberry Pi",
-  "generated": "2026-07-19",
+  "generated": "2026-09-07",
   "sources": [
     {
       "name": "pico-sdk",
       "url": "https://github.com/raspberrypi/pico-sdk",
-      "version": "98a542c1a62fb549ffb5d66a3e5892b06276b670",
+      "version": "079c6f39023649b154152db30f1d781e884879bc",
       "license": "BSD-3-Clause",
       "files": [
         "src/rp2040/hardware_regs/RP2040.svd",
